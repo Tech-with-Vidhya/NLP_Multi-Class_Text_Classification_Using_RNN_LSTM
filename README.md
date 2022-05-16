@@ -1,1 +1,1 @@
-# SageMaker-E2E-4
+# NLP_Multi-Class_Text_Classification_Using_RNN_LSTM
